@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "01_Introduction",
+			"path": "01_Introduction"
+		},
+		{
+			"name": "02_Tables_Exploration",
+			"path": "02_Tables_Exploration"
+		},
+		{
+			"name": "03_Dimensions_Exploration",
+			"path": "03_Dimensions_Exploration"
+		},
+		{
+			"name": "04_Date_Exploration",
+			"path": "04_Date_Exploration"
+		},
+		{
+			"name": "05_Magnitude_Analysis",
+			"path": "05_Magnitude_Analysis"
+		},
+		{
+			"name": "06_Customer_Analysis",
+			"path": "06_Customer_Analysis"
+		},
+		{
+			"name": "07_Product_Category_Analysis",
+			"path": "07_Product_Category_Analysis"
+		},
+		{
+			"name": "08_Revenue_Analysis",
+			"path": "08_Revenue_Analysis"
+		},
+		{
+			"name": "09_Distribution_Analysis",
+			"path": "09_Distribution_Analysis"
+		},
+		{
+			"name": "10_Ranking_Analysis",
+			"path": "10_Ranking_Analysis"
+		},
+		{
+			"name": "11_Conclusion",
+			"path": "11_Conclusion"
+		}
+	]
+}
