@@ -83,7 +83,7 @@ This section examines sales-volume distribution across countries and the distrib
 ## [Ranking Analysis](readme_files/10_ranking_analysis.md) — Which products and categories rank highest by revenue?
 This section identifies the top revenue-generating products and product categories to highlight areas of strong commercial performance and revenue concentration.
 
-## [Conclusion & Recommendation](readme_files/11_conclusion_&_recommendation.md)
+## [Conclusion and Recommendation](readme_files/11_conclusion_and_recommendation.md)
 This section summarizes the major findings, translates them into actionable business recommendations, and identifies opportunities for advanced analytics and predictive modelling.
 
 
@@ -156,4 +156,3 @@ Exploratory_Data_Analysis/
 
 4. **Key Techniques:** Aggregations, Joins, Window Functions, CTEs and Data Filtering# Sales Data Exploration Portfolio
 
-An exploratory data analysis (EDA) project focused on identifying key trends, customer behaviors, and performance metrics.
