@@ -157,38 +157,3 @@ Exploratory_Data_Analysis/
 4. **Key Techniques:** Aggregations, Joins, Window Functions, CTEs and Data Filtering# Sales Data Exploration Portfolio
 
 An exploratory data analysis (EDA) project focused on identifying key trends, customer behaviors, and performance metrics.
-
-
-## Repository Structure
-
-1.  **01_Introduction/** - Project scoping and overview, executive summary and the busines problem.
-
-2.  **02_Tables_Exploration/** - Profiling schema, row counts, and structural metadata.
-
-3.  **03_Dimensions_Exploration/** - Analyzing dimensional fields, cardinalities, and primary key distributions.
-
-4.  **04_Date_Exploration/** - Evaluating chronological data boundaries and timeline completeness.
-
-5.  **05_Magnitude_Analysis/** - Macro-level volume metrics and transaction scales.
-
-6.  **06_Customer_Analysis/** - Behavioral segments, purchasing activity, and customer metrics.
-
-7.  **07_Product_Category_Analysis/** - Inventory sales, line-item performance, and category mixes.
-
-8.  **08_Revenue_Analysis/** - Core cash flows, earnings metrics, and financial outcomes.
-
-9.  **09_Distribution_Analysis/** - Exploring metric frequencies, variances, and spread metrics.
-
-10.  **10_Ranking_Analysis/** - High-to-low dimensional sorting (e.g., top products, top regions).
-
-11.  **11_Conclusion/** - Strategic summary and business recommendations.
-
-
-## Tools Used
-1.  **Database Engine:** Microsoft SQL Server (MSSQL)
-
-2.  **Development Environment:** Visual Studio Code (VS Code)
-
-3.  **SQL Extension:** MSSQL extension for VS Code
-
-4.  **Key Techniques:** Aggregations, Joins, Window Functions, and Data Filtering
